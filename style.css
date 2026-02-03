@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background: pink;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  font-family: Arial;
+}
+
+.container {
+  text-align: center;
+}
+
+.character {
+  width: 200px;
+}
+
+button {
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+  background: hotpink;
+  color: white;
+  font-size: 18px;
+}
