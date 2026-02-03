@@ -13,7 +13,7 @@ typeWriter();
 
 function showLove() {
   document.getElementById("message").innerText =
-    "Happy Valentine’s Day 💕";
+    "SANA MALAMBING 🫣";
 }
 
 // floating hearts
